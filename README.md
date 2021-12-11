@@ -1,0 +1,2 @@
+# ELK-Project1
+review the concepts and procedures of git and GitHub. You will create a repository that will serve as the location where you can store any scripts, diagrams or other documentation that you have worked on throughout this course. Additionally you will be tasked with uploading the README file, network diagram, and other associated files that you have created during the ELK Stack project. Uploading these files will serve as the official submission of your project.
